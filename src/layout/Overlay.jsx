@@ -1,8 +1,6 @@
 import {
   Container,
   TopLeft,
-  BottomLeft,
-  BottomRight,
   Hamburger,
 } from "./styles";
 import { VelvetBanana } from "./VelvetBanana";
